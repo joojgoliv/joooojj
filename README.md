@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Jooj
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on ??
+🤙
 
 <!---
 joooojj/joooojj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
